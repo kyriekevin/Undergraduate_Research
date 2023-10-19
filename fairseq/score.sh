@@ -1,0 +1,1 @@
+fairseq-score --sys generate1.sys --ref generate1.ref

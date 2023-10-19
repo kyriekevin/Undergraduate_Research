@@ -1,0 +1,3 @@
+nohup: ignoring input
+Namespace(ignore_case=False, order=4, ref='generate.ref', sacrebleu=False, sentence_bleu=False, sys='generate.sys')
+BLEU4 = 27.46, 58.8/33.1/21.0/13.9 (BP=1.000, ratio=1.012, syslen=65255, reflen=64496)
